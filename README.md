@@ -14,4 +14,4 @@ pom.xml
             </dependency>
             
             
-            
+1、访问路径： http://localhost:7999/hello?token=1212&name=12123
