@@ -1,6 +1,6 @@
 * @Author zenghao
 # sping-cloud-zuul
-zuul重试统一实例不同服务机制
+zuul重试同一实例不同服务机制
 
 pom.xml
 
